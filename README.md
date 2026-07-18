@@ -89,14 +89,13 @@ The project includes dashboard screenshots showing:
 ## Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](dashboard-1.png)
+![Main Dashboard](dashboard%201%20 .png)
 
 ### Forecast Overview
-![Forecast Dashboard](dashboard-2.png)
+![Forecast Dashboard](dashboard%202%20 .png)
 
 ### Sales Forecast + Top States
-![Forecast + States](dashboard-3.png)
-
+![Forecast + States](dashboard%203%20 .png)
 --------- 
 ## 👤 Created by
 
