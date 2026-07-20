@@ -6,7 +6,7 @@ An interactive **Power BI** dashboard that analyzes and visualizes sales, profit
 
 ## 📁 Project Files
 
-| File | Description |
+| Filee | Description |
 |---|---|
 | `Superstore_sales_dashboard.pbix` | The main Power BI report file containing all pages, visuals, and DAX measures |
 | `SuperStore_Sales_Dataset.csv` | The raw sales dataset used as the data source (~5,900 rows) |
