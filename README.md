@@ -8,8 +8,8 @@ An interactive **Power BI** dashboard that analyzes and visualizes sales, profit
 
 | Filee | Description |
 |---|---|
-| `Superstore_sales_dashboard.pbix` | The main Power BI report file containing all pages, visuals, and DAX measures |
-| `SuperStore_Sales_Dataset.csv` | The raw sales dataset used as the data source (~5,900 rows) |
+| `Superstore_sales_dashboard.pbix` | The main Power BI report file containing all pages, visuals, and DAX measures. |
+| `SuperStore_Sales_Dataset.csv` | The raw sales dataset used as the data source (~5,900 rows). |
 
 ---
 
@@ -17,8 +17,8 @@ An interactive **Power BI** dashboard that analyzes and visualizes sales, profit
 
 The dataset contains order-level retail sales records with the following fields:
 
-- **Order Info:** Order ID, Order Date, Ship Date, Ship Mode
-- **Customer Info:** Customer ID, Customer Name, Segment
+- **Order Info:** Order ID, Order Date, Ship Date, Ship Mode.
+- **Customer Info:** Customer ID, Customer Name, Segment.
 - **Location:** Country, City, State, Region
 - **Product Info:** Product ID, Category, Sub-Category, Product Name
 - **Metrics:** Sales, Quantity, Profit, Returns
