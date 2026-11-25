@@ -42,20 +42,20 @@ An overview page with key metrics and regional filters:
 - Interactive **Region slicer** buttons (Central / East / South / West)
 
 ### 2. Sales Forecast Page
-- **15-Day Sales Forecast** using Power BI's built-in forecasting (analytics pane).
-- Full historical trend of **Sum of Sales by Order Date** (Jan 2019 – Jan 2021).
-- Zoomed-in view with a date range slider (Nov 2020 – Jan 2021) showing the forecasted trend band.
-- **Sum of Sales by State** ranked bar chart (Top 10 states).
+- **15-Day Sales Forecast** using Power BI's built-in forecasting (analytics pane)
+- Full historical trend of **Sum of Sales by Order Date** (Jan 2019 – Jan 2021)
+- Zoomed-in view with a date range slider (Nov 2020 – Jan 2021) showing the forecasted trend band
+- **Sum of Sales by State** ranked bar chart (Top 10 states)
 
 ---
 
 ## 🛠️ Tools & Techniques Used
 
-- **Power BI Desktop** for data modeling and visualization.
-- **Power Query** for data cleaning and transformation.
-- **DAX** for calculated measures (Sales, Profit, Quantity totals).
-- **Power BI Forecasting (Analytics pane)** for the 15-day sales prediction.
-- **Bookmarks / Slicers** for interactive filtering by region.
+- **Power BI Desktop** for data modeling and visualization
+- **Power Query** for data cleaning and transformation
+- **DAX** for calculated measures (Sales, Profit, Quantity totals)
+- **Power BI Forecasting (Analytics pane)** for the 15-day sales prediction
+- **Bookmarks / Slicers** for interactive filtering by region
 
 ---
 
