@@ -31,15 +31,15 @@ The dataset contains order-level retail sales records with the following fields:
 ### 1. Main Dashboard
 An overview page with key metrics and regional filters:
 - **KPI Cards:** Total Sales, Total Quantity, Total Profit.
-- **Sum of Sales by Segment** (donut chart – Consumer, Corporate, Home Office).
-- **Sum of Sales by Region** (donut chart – Central, East, South, West).
-- **Sum of Sales by Payment Mode** (donut chart – Cards, COD, Online).
-- **Monthly Sales by Year-over-Year (YoY)** comparison.
-- **Monthly Profit by Year-over-Year (YoY)** comparison.
-- **Sales by Sub-Categories** and **Sales by Categories** (bar charts).
-- **Sales by Ship Mode** (bar chart).
-- **Sum of Sales and Profit by State** (map visual).
-- Interactive **Region slicer** buttons (Central / East / South / West).
+- **Sum of Sales by Segment** (donut chart – Consumer, Corporate, Home Office)
+- **Sum of Sales by Region** (donut chart – Central, East, South, West)
+- **Sum of Sales by Payment Mode** (donut chart – Cards, COD, Online)
+- **Monthly Sales by Year-over-Year (YoY)** comparison
+- **Monthly Profit by Year-over-Year (YoY)** comparison
+- **Sales by Sub-Categories** and **Sales by Categories** (bar charts)
+- **Sales by Ship Mode** (bar chart)
+- **Sum of Sales and Profit by State** (map visual)
+- Interactive **Region slicer** buttons (Central / East / South / West)
 
 ### 2. Sales Forecast Page
 - **15-Day Sales Forecast** using Power BI's built-in forecasting (analytics pane).
